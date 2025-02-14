@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "tailwindcss": "^3.4.13"
+  }
+}
+
+
+// npx tailwindcss -i ./input.css -o ./output.css --watch    
+//  to run a or restart the tailwind file
