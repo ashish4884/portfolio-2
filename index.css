@@ -113,10 +113,12 @@ cerfication css start */
 
 .mainContainer{
     border-radius: 20px;
-    gap: 60px;
-    padding: 12px;
+    gap: 100px;
+    padding: 28px;
     border: 2px solid white;
     box-shadow: 0px 0px 15px rgba(255, 255, 255, 0.6);
+    margin-left: 12px;
+    margin-right: 12px;
 
     
 
